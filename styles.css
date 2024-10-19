@@ -1,3 +1,16 @@
 body {
     background-color: ghostwhite;
 }
+
+img{
+    width: 200px;
+}
+
+button{
+    padding: 4px 10px;
+    margin: 4px;
+    color: white;
+    background-color: rgb(111, 34, 179);
+    border: none;
+    border-radius: 2px;
+}
